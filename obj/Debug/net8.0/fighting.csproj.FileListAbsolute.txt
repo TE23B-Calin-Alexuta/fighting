@@ -1,0 +1,14 @@
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\bin\Debug\net8.0\fighting.exe
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\bin\Debug\net8.0\fighting.deps.json
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\bin\Debug\net8.0\fighting.runtimeconfig.json
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\bin\Debug\net8.0\fighting.dll
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\bin\Debug\net8.0\fighting.pdb
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\fighting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\fighting.AssemblyInfoInputs.cache
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\fighting.AssemblyInfo.cs
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\fighting.csproj.CoreCompileInputs.cache
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\fighting.dll
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\refint\fighting.dll
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\fighting.pdb
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\fighting.genruntimeconfig.cache
+C:\Users\calin.alexuta\Documents\programation\fighting\fighting\obj\Debug\net8.0\ref\fighting.dll
